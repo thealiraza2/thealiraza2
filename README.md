@@ -1,17 +1,12 @@
 <div align="center">
-
-# ⚡ ALI RAZA ⚡
-### `Full-Stack Engineer` • `SaaS Architect` • `Systems Builder`
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Ali%20Raza&fontSize=70&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20SaaS%20Architect%20|%20Trader&descAlignY=58&descAlign=50" width="100%"/>
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Crafting+high-performance+web+platforms;Turning+complex+logic+into+seamless+UI;Specialized+in+TypeScript%2C+Python+%26+Cloud" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 ---
-
-</div>
 
 ### 🛠️ CORE ARSENAL & TECHNOLOGIES
 
