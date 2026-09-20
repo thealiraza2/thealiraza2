@@ -1,18 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=240&section=header&text=⚡%20Ali%20Raza%20⚡&fontSize=68&fontAlignY=40&desc=Full-Stack%20Architect%20%7C%20SaaS%20Engineer%20%7C%20System%20Designer&descAlignY=62&descAlign=50" width="100%"/>
-  
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Ali%20Raza&fontSize=70&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20SaaS%20Architect%20|%20Trader&descAlignY=58&descAlign=50" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+ecosystems;High-frequency+trading+tools+%26+dashboards;TypeScript%2C+Python+%26+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Crafting+high-performance+web+platforms;Turning+complex+logic+into+seamless+UI;Specialized+in+TypeScript%2C+Python+%26+Cloud" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=thealiraza2&label=SYSTEM+ACCESSES&color=00ff9d&style=flat-square" alt="Views" />
 </div>
-
-<br/>
 
 ---
 
@@ -20,21 +12,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,firebase,postgres,tailwind,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,firebase,postgres,tailwind,git,docker&perline=6" />
   </a>
 </p>
 
 ---
 
-### 📊 ACTIVITY ARCHITECTURE (3D)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thealiraza2&theme=tokyonight" width="90%" alt="Profile Details" />
-</p>
-
----
-
-### 📈 PERFORMANCE & TELEMETRY
+### 📈 PERFORMANCE & METRICS
 
 <table align="center" width="100%">
   <tr>
@@ -49,12 +33,12 @@
 
 ---
 
-### 💻 SYSTEM STATUS & TERMINAL
+### 🌐 CURRENT FOCUS & CONNECT
 
 ```bash
-ali@root:~$ fetch-profile --verbose
-[SYSTEM] Status: ONLINE | Active Development
-[ROLE]   Full-Stack SaaS Engineer & Systems Builder
-[FOCUS]  Scalable Engines, Financial Dashboards, High-Performance Backends
-[STACK]  TypeScript, React, Python, PostgreSQL, Firebase, Tailwind
-[CONTACT] Open for high-impact contracts, SaaS architecture & collaborations
+ali@root:~$ neofetch
+OS: Linux / Cloud
+Role: Full-Stack SaaS Developer
+Focus: Scalable Backends, Trading Systems, Reactive Dashboards
+Stack: TypeScript, Python, Tailwind, Firebase, PostgreSQL
+Status: Available for high-impact contracts & collaborations
