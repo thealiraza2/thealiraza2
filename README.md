@@ -1,41 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Ali%20Raza&fontSize=70&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20SaaS%20Architect%20|%20Trader&descAlignY=58&descAlign=50" width="100%"/>
-  
+
+# ⚡ ALI RAZA ⚡
+### `Full-Stack Engineer` • `SaaS Architect` • `Systems Builder`
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Building+scalable+SaaS+products;Turning+complex+data+into+clean+UI;TypeScript+%26+Python+specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Crafting+high-performance+web+platforms;Turning+complex+logic+into+seamless+UI;Specialized+in+TypeScript%2C+Python+%26+Cloud" alt="Typing SVG" />
   </a>
+</p>
+
+---
+
 </div>
 
-<br/>
-
-### ⚡ Arsenal & Ecosystem
+### 🛠️ CORE ARSENAL & TECHNOLOGIES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,firebase,postgres,tailwind,git,docker" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,firebase,postgres,tailwind,git,docker&perline=6" />
+  </a>
 </p>
 
 ---
 
-### 📊 Tactical Metrics
+### 📈 PERFORMANCE & METRICS
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealiraza2&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thealiraza2&theme=tokyonight" alt="Overview" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thealiraza2&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Trophies" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=thealiraza2&theme=neon&hide_border=true" width="100%" alt="Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thealiraza2&layout=compact&theme=neon&hide_border=true" width="100%" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=footer" width="100%"/>
-</div>
+### 🌐 CURRENT FOCUS & CONNECT
+
+```bash
+ali@root:~$ neofetch
+OS: Linux / Cloud
+Role: Full-Stack SaaS Developer
+Focus: Scalable Backends, Trading Systems, Reactive Dashboards
+Stack: TypeScript, Python, Tailwind, Firebase, PostgreSQL
+Status: Available for high-impact contracts & collaborations
